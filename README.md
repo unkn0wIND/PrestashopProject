@@ -1,14 +1,5 @@
 # PrestashopProject | Installer le projet Vintury en local
 
-
-Identifiants pour se connecter au backOffice 
-
-Login    :  julien.cnd@gmail.com
-Password :  Adminwebvin1
-
-Lien du backOffice : http://localhost/vintury/ritemadmin/ 
-
-
 # Suivre ces étapes pour installer le projet en local :
 
 - Mettre la version 7.1.33 de PHP sur WAMP
