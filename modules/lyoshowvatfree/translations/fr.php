@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_af526d821f561cda4d7ed1771e113de4'] = 'Affiche toutes les taxes';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_a9f18a2597a51cd8e83d1da45ab01bbf'] = 'Affiche le prix HT et le prix TTC';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_876f23178c29dc2552c0b48bf23cd9bd'] = 'Etes-vous sûr de vouloir désinstaller ?';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_e658c64ebca46c69ad81ca3a032c1946'] = 'La marge saisie est invalide. Veuillez saisir un nombre entier.';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_c888438d14855d7d96a2724ee9c306bd'] = 'Paramètres mis à jour';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_1adcbe07bfd09c458d025e3b1f793f6a'] = 'Paramètres pour les catégories de produits';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_8dc702ca720b3d580e129dbbebc0650a'] = 'Afficher dans les catégories de produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_93cba07454f06a4a960172bbd6e2a435'] = 'Oui';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_bafd7322c6e97d25b6299b5d6fe8920b'] = 'Non';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_7638baeb1c110f8904ae1a1e3bafbf40'] = 'Couleur du prix dans les catégories de produits';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_6bb3d4b00d6e1d9ded64912f2e98fdbb'] = 'Taille du prix dans les catégories de produits (15 par défaut)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_680cff3e98fb2475a4177525d6aa1fb5'] = 'Afficher le label de la taxe dans les catégories de produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_da330aeefe06a68b85025a1c3b050372'] = 'Affiche le label de la première taxe dans les catégories de produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_c9cc8cce247e49bae79f15173ce97354'] = 'Sauvegarder';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_6c255e97ea811b1b3023a82d3718ecf8'] = 'Paramètre pour les fiches produits';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_bb18a14b0a20d4ce2737ad0d00c23220'] = 'Afficher dans les fiches produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_fa4f92ffce778c55bd1314e11eddd478'] = 'Couleur de la taxe dans les fiches produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_009da7bb1a35201a6828509edc9c7a12'] = 'Taille du prix dans les fiches produit (15 par défaut)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_3dbff38919edf91e00b722174eec9bcd'] = 'La marge d\'espace (margin-top) entre le bloc précédent (nb entier)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_921b7a12f559450a4a5f07cdae651992'] = 'Afficher le label de la taxe dans les fiches produit';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_cb3c93351f1f20809fdd6e938a4319c7'] = 'Autres paramètres';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_cf33682f6f4edae944ec747122f4595f'] = 'Label pour la taxe inclue';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_a65a1350baea6bf7f692b9100bdb15a4'] = 'Label pour la taxe exclue';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_4fc963e213bba362778f5c175eb4d5ff'] = 'AIDE';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_971404ca1cadb15747380327502cceec'] = 'NOTEZ-NOUS';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_3333b0e552aa226989bebfb35686fbf8'] = 'TOUS NOS MODULES';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_83218ac34c1834c26781fe4bde918ee4'] = 'BIENVENUE';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_96a86641d9d06c53d9be5e50f62b89be'] = 'Bienvenue sur l\\\'interface du module LyoShowVatFree!';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_b3727256fd0ddf7770d30e3c98ce4b73'] = 'Utilisez les différents paramètres pour activer le double affichage de la taxe sur votre boutique.';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_a697c2187fee18a1431ebff250192f8b'] = 'Les options vous permettent de personnaliser le prix ajouté par notre module (couleur, taille, traductions du label de la taxe etc...)';

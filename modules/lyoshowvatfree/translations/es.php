@@ -1,0 +1,35 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_af526d821f561cda4d7ed1771e113de4'] = 'Ver todos los impuestos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_a9f18a2597a51cd8e83d1da45ab01bbf'] = 'Muestra el precio excluido del impuesto y el precio incluido en el impuesto';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_876f23178c29dc2552c0b48bf23cd9bd'] = '¿Estas seguro que lo quieres desinstalar?';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_e658c64ebca46c69ad81ca3a032c1946'] = 'Margen no válido. Debe ser un entero';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_c888438d14855d7d96a2724ee9c306bd'] = 'Ajustes actualizan';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_1adcbe07bfd09c458d025e3b1f793f6a'] = 'Configuración de categorías de productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_8dc702ca720b3d580e129dbbebc0650a'] = 'Mostrar en categorías de productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_93cba07454f06a4a960172bbd6e2a435'] = 'Si';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_bafd7322c6e97d25b6299b5d6fe8920b'] = 'No';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_7638baeb1c110f8904ae1a1e3bafbf40'] = 'Color en categorías de productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_6bb3d4b00d6e1d9ded64912f2e98fdbb'] = 'Tamaño del precio en categorías de productos (valor predeterminado: 15)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_680cff3e98fb2475a4177525d6aa1fb5'] = 'Mostrar la etiqueta fiscal en productos de categorías';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_da330aeefe06a68b85025a1c3b050372'] = 'Mostrar la etiqueta del primer impuesto en productos de categorías';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_c9cc8cce247e49bae79f15173ce97354'] = 'Salvar';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_6c255e97ea811b1b3023a82d3718ecf8'] = 'Configuración de detalles de los productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_bb18a14b0a20d4ce2737ad0d00c23220'] = 'Mostrar en detalle de productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_fa4f92ffce778c55bd1314e11eddd478'] = 'Color en detalles de los productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_009da7bb1a35201a6828509edc9c7a12'] = 'Tamaño del precio en los detalles de los productos (valor predeterminado: 15)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_3dbff38919edf91e00b722174eec9bcd'] = 'Margen con el bloque anterior (debe ser un entero)';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_921b7a12f559450a4a5f07cdae651992'] = 'Mostrar la etiqueta fiscal en los detalles de los productos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_cb3c93351f1f20809fdd6e938a4319c7'] = 'Otros ajustes';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_cf33682f6f4edae944ec747122f4595f'] = 'Impuestos incluidos';
+$_MODULE['<{lyoshowvatfree}prestashop>lyoshowvatfree_a65a1350baea6bf7f692b9100bdb15a4'] = 'Etiqueta de impuestos excluidos';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_4fc963e213bba362778f5c175eb4d5ff'] = 'AYUDA';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_256fc6e4dbf98308ceca2b9b924b25af'] = 'APOYO';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_971404ca1cadb15747380327502cceec'] = 'ESCRIBANOS';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_3333b0e552aa226989bebfb35686fbf8'] = 'Todos nuestros módulos';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_83218ac34c1834c26781fe4bde918ee4'] = 'Bienvenido';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_96a86641d9d06c53d9be5e50f62b89be'] = 'Bienvenido al módulo de interfaz de LyoShowVatFree!';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_b3727256fd0ddf7770d30e3c98ce4b73'] = 'Usa los diferentes ajustes para que el impuesto dual en su tienda.';
+$_MODULE['<{lyoshowvatfree}prestashop>configure_addon_a697c2187fee18a1431ebff250192f8b'] = 'Las opciones le permiten personalizar el precio añadido por nuestro módulo (color, tamaño, traducciones del impuesto etiqueta etc ...)';

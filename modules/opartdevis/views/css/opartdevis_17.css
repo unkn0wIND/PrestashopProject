@@ -1,0 +1,9 @@
+#opartDevisForm .clearfix {
+    margin-top:15px;
+}
+#opartDevisForm .opartDevisConteneurTextareaLeft {
+    width:45%;
+}
+#opartDevisForm .opartDevisConteneurTextareaRight {
+    width:45%;
+}

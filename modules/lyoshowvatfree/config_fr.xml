@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>lyoshowvatfree</name>
+    <displayName><![CDATA[Affiche toutes les taxes]]></displayName>
+    <version><![CDATA[3.1.1]]></version>
+    <description><![CDATA[Affiche le prix HT et le prix TTC]]></description>
+    <author><![CDATA[LyonDev]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr de vouloir désinstaller ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
