@@ -9,7 +9,7 @@ Password :  Adminwebvin1
 Lien du backOffice : http://localhost/vintury/ritemadmin/ 
 
 
-Suivre ces étapes pour installer le projet en local :
+# Suivre ces étapes pour installer le projet en local :
 
 - Mettre la version 7.1.33 de PHP sur WAMP
 - Copier/Coller tout le projet dans le dossier wamp/www/
