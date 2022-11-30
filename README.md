@@ -24,6 +24,7 @@ Suivre ces étapes pour installer le projet en local :
 - Ouvrir la table ri_shop_url et modifier le domain par 127.0.0.1 et ajouter le physical_url "/vintury/"
 - Ouvrir app/config/parameters.php :
 
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 <?php return array (
   'parameters' => 
@@ -49,3 +50,5 @@ Suivre ces étapes pour installer le projet en local :
     'new_cookie_key' => 'def000001a6f4a931be8074faab6044d6cb8d259698b8f624b921e5e08b9f99040603daea7896b5d2fe0dde3f1658f2ded2fa47a40650d42d3916ab89650fc54991b280e',
   ),
 );
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # 
