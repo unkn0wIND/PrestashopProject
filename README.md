@@ -8,7 +8,6 @@ Password :  Adminwebvin1
 
 Lien du backOffice : http://localhost/vintury/ritemadmin/ 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 Suivre ces étapes pour installer le projet en local :
 
